@@ -1,2 +1,4 @@
-# PinkPlayer
-jikeying音乐播放器
+﻿# PinkPlayer
+Jikeying Music Player
+
+This is my first change.
